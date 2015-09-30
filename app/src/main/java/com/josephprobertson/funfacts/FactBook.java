@@ -58,7 +58,8 @@ public class FactBook {
             "The Lost River Cave includes the shortest and deepest underground river in the world.",
             "The swimsuit Mark Spitz wore in the 1972 Olympic games was manufactured in Paris, Kentucky.",
             "Kentucky's Frederick Vinson is the only Chief Justice of the US Supreme Court to be born in jail.",
-            "Pike County is famous for the Hatfield-McCoy feud, which lasted from the Civil War to the 1890s" };
+            "Pike County is famous for the Hatfield-McCoy feud, which lasted from the Civil War to the 1890s",
+            "World Champion boxer Mohammed Ali was born in Louisville."};
 
     // Method (abilities: things the object can do)
     public String getFact() {
